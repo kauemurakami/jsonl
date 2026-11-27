@@ -9,7 +9,7 @@ It does not convert a JSONL stream into JSON text and back again.
 
 ```yaml
 dependencies:
-  jsonl: ^0.0.1
+  jsonl: ^0.0.3
 ```
 
 ```dart

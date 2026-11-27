@@ -21,3 +21,7 @@
 
 - Open github project to reachable reference.
 - Fix unecessary library names to get max pub points
+
+## 0.0.3
+
+- Fix pub dev doc 
