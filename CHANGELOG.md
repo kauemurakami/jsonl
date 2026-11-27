@@ -16,3 +16,8 @@
 - Document installation, API usage, streaming examples, unit tests, integration tests, Flutter/Dart workflows, and platform limitations.
 - Clarify that `fromJsonl` is a model factory, not a package extension.
 - Remove redundant map and iterable `toJsonlString` convenience extensions.
+
+## 0.0.2
+
+- Open github project to reachable reference.
+- Fix unecessary library names to get max pub points

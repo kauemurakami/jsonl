@@ -1,6 +1,6 @@
 name: jsonl
 description: A lightweight, zero-dependency JSON Lines (JSONL / NDJSON) parser, model encoder, converter, and stream toolkit for Dart and Flutter.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/kauemurakami/jsonl
 homepage: https://github.com/kauemurakami/jsonl
 issue_tracker: https://github.com/kauemurakami/jsonl/issues
